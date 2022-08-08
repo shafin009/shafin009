@@ -5,9 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafin009&label=Profile%20views&color=0e75b6&style=flat" alt="shafin009" /> </p>
 
 <div align="center">
-<img class='width-600 height-800' src="https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png" alt=""/>
+<img src="https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png" width="400" height="400" />
   
-![I am a Full Stack Web Developer](https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png)
 
 - 🌱 I’m currently learning **Redux, Next JS**
 
