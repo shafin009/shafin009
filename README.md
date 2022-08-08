@@ -1,4 +1,4 @@
-![I am a Full Stack Web Developer.👨‍💻](https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png)
+![I am a Full Stack Web Developer.👨‍💻](https://i.ibb.co/Bqq4n68/rsz-1659375763524.png)
 
 
 <h1 align="center">Hi 👋, I'm Tanvir Rahman</h1>
