@@ -1,5 +1,3 @@
-![I am a Full Stack Web Developer.👨‍💻](https://i.ibb.co/Bqq4n68/rsz-1659375763524.png)
-
 
 <h1 align="center">Hi 👋, I'm Tanvir Rahman</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh 👨‍💻</h3>
@@ -17,6 +15,8 @@
 - 📫 How to reach me **tanvirrahmanshafin1952@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15YdMuGHr685wY7af1RrmAlHDHvZQfMtE/view](https://drive.google.com/file/d/15YdMuGHr685wY7af1RrmAlHDHvZQfMtE/view)
+
+![I am a Full Stack Web Developer](https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
