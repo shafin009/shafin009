@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafin009&label=Profile%20views&color=0e75b6&style=flat" alt="shafin009" /> </p>
 
+<div align="center">
+<img class='width-600 height-800' src="https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png" alt=""/>
+  
 ![I am a Full Stack Web Developer](https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png)
 
 - 🌱 I’m currently learning **Redux, Next JS**
@@ -34,6 +37,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafin009&show_icons=true&locale=en&layout=compact" alt="shafin009" /></p>
 
-### Hi there 👋, My name is Tanvir Rahman 👦
-#### I am a Full Stack Web Developer
-![I am a Full Stack Web Developer](https://i.ibb.co/Bqq4n68/rsz-1659375763524.png)
+
