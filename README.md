@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafin009&label=Profile%20views&color=0e75b6&style=flat" alt="shafin009" /> </p>
 
+![I am a Full Stack Web Developer](https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png)
+
 - 🌱 I’m currently learning **Redux, Next JS**
 
 - 👨‍💻 All of my projects are available at [https://tanvir-rahman.netlify.app/](https://tanvir-rahman.netlify.app/)
@@ -16,7 +18,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15YdMuGHr685wY7af1RrmAlHDHvZQfMtE/view](https://drive.google.com/file/d/15YdMuGHr685wY7af1RrmAlHDHvZQfMtE/view)
 
-![I am a Full Stack Web Developer](https://i.ibb.co/KDWnSHt/ghostboyshafin-gmail-com.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
